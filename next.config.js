@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  basePath: "/the-boring-guy",
+  basePath: "/calc",
   reactStrictMode: true,
 };
